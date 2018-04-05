@@ -76,7 +76,7 @@
 - - "./repos/rails42/rails42_sprockets3_manifest"
   - 8ba93cea22a99d64dd1fbf87b8f7892c0d5204d1
 - - "./repos/rails5/rails5"
-  - fc537b7091260d8cc6fdf2bc0fac7032d910a261
+  - cd35f6a3493eeb6427212b5d151a2a5c50c24035
 - - "./repos/rails51/rails51_webpacker"
   - d8460fc9eeb93108b6037a3ea755ec7a111ad03c
 - - "./repos/rake/asset_precompile_fail"
